@@ -1,7 +1,7 @@
 import React from 'react';
 const Achievements = () => {
     return ( 
-        < > 
+        <div> 
         <div className="row" id="achieves">
 
                         <div className="col-sm-8">
@@ -15,7 +15,7 @@ const Achievements = () => {
                        </div>
                        
         </div>
-        </>
+        </div>
      );
 }
  
